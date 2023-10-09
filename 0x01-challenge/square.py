@@ -2,7 +2,7 @@
 """ A square class """
 
 
-class Square():
+class Square:
     """ A square class """
     # width = 0
     # height = 0
