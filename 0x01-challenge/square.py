@@ -10,7 +10,7 @@ class Square:
     def __init__(self, width=0, height=0):
         """ Constructor """
         self.width = width
-        self.height = height
+        self.height = width
 
     def area_of_my_square(self):
         """ Area of the square """
