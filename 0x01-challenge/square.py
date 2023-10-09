@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" A square class """
+""" Module for a square class """
 
 
 class Square:
@@ -22,7 +22,7 @@ class Square:
 
     def __str__(self):
         """ String representation """
-        return "{}/{}".format(self.width, self.height)
+        return "{}/{}".format(self.width, self.width)
 
 
 if __name__ == "__main__":
